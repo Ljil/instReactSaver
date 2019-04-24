@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/instReactSaver/static/css/main.953c3cf9.chunk.css",
+    "main.js": "/instReactSaver/static/js/main.32fc2cfb.chunk.js",
+    "main.js.map": "/instReactSaver/static/js/main.32fc2cfb.chunk.js.map",
+    "runtime~main.js": "/instReactSaver/static/js/runtime~main.98ca2c2d.js",
+    "runtime~main.js.map": "/instReactSaver/static/js/runtime~main.98ca2c2d.js.map",
+    "static/js/2.0f58faaa.chunk.js": "/instReactSaver/static/js/2.0f58faaa.chunk.js",
+    "static/js/2.0f58faaa.chunk.js.map": "/instReactSaver/static/js/2.0f58faaa.chunk.js.map",
+    "index.html": "/instReactSaver/index.html",
+    "precache-manifest.a667700bd00d4c5894f7f69c09fc4ca2.js": "/instReactSaver/precache-manifest.a667700bd00d4c5894f7f69c09fc4ca2.js",
+    "service-worker.js": "/instReactSaver/service-worker.js",
+    "static/css/main.953c3cf9.chunk.css.map": "/instReactSaver/static/css/main.953c3cf9.chunk.css.map"
+  }
+}
